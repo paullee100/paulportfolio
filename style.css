@@ -366,6 +366,11 @@ form .btn2 {
     color: #ff004f;
 }
 
+.copyright a {
+    text-decoration: none;
+    color: #ff004f;
+}
+
 /* ---------------------- CSS For Small Screens ---------------------- */
 nav .fas {
     display: none;
